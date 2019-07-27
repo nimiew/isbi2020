@@ -1,4 +1,4 @@
-This repository contains codes for ISBI 2020 - Distinctive fMRI features for Classification and Identification of Autism Spectrum Disorder
+# Codes for ISBI 2020
 
 *download_abide_preproc.py* - Download pre-processed ABIDE dataset
 
