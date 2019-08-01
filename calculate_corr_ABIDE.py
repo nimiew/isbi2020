@@ -1,5 +1,4 @@
 # Author: Xiuchao.Sui@gmail.com
-# Editted: jang047@e.ntu.edu.sg
 """
 Extract Timeseries from 264 sphere nodes of Power Atlas
 Radius:  2.5 (5mm radius) -> in accord with (Power et al. 2011)
