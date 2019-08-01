@@ -1,5 +1,4 @@
 # Author: Daniel Clark, 2015
-# Editted: jang047@e.ntu.edu.sg
 '''
 This script downloads data from the Preprocessed Connetomes Project's
 ABIDE Preprocessed data release and stores the files in a local
